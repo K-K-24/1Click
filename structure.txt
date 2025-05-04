@@ -1,0 +1,27 @@
+ua_content_automation/
+│
+|
+|-----ai
+       ---------ai_processor.py
+|
+|
+├── api/               # All GPT-3.5 related scripts
+│   └── generate_xml.py
+│
+├── automation/        # Selenium-based scripts
+│   ├── browser_automation.py
+│   ├── ccms_web_edit.py
+│   └── helpers.py      # helper functions (waiting, clicking, etc.)
+     ---- outlook_email_reader.py
+│
+├── config/            # API keys, URLs, credentials (NEVER upload this public)
+│   └── settings.py
+│
+├── data/              # (Optional) To store input comments or logs
+│   └── comments_to_fix.csv
+----- xml_parser/
+     ---- extract_fragment.py
+│
+├── main.py            # The master script that ties everything together
+│
+└── README.md          # Project documentation (optional)
