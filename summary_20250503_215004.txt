@@ -1,0 +1,81 @@
+DITA COMMENT AUTOMATION SUMMARY
+==================================================
+Date: 2025-05-03 21:50:04
+Target date: 2025-04-22
+Total emails processed: 39
+Successfully processed: 5
+Failed to process: 72
+
+FAILED EMAILS (Require manual attention):
+- 1st from bottom: 'SAP Help Portal: Comment Notification' received at 17:05:24
+- 2nd from bottom: 'SAP Help Portal: Comment Notification' received at 17:06:13
+- 3rd from bottom: 'SAP Help Portal: Comment Notification' received at 17:06:57
+- 3rd from bottom: 'SAP Help Portal: Comment Notification' received at 17:06:57
+- 4th from bottom: 'SAP Help Portal: Comment Notification' received at 17:07:03
+- 4th from bottom: 'SAP Help Portal: Comment Notification' received at 17:07:03
+- 5th from bottom: 'SAP Help Portal: Comment Notification' received at 17:59:03
+- 6th from bottom: 'SAP Help Portal: Comment Notification' received at 18:02:38
+- 6th from bottom: 'SAP Help Portal: Comment Notification' received at 18:02:38
+- 7th from bottom: 'SAP Help Portal: Comment Notification' received at 18:04:05
+- 7th from bottom: 'SAP Help Portal: Comment Notification' received at 18:04:05
+- 8th from bottom: 'SAP Help Portal: Comment Notification' received at 18:06:31
+- 8th from bottom: 'SAP Help Portal: Comment Notification' received at 18:06:31
+- 9th from bottom: 'SAP Help Portal: Comment Notification' received at 18:07:11
+- 9th from bottom: 'SAP Help Portal: Comment Notification' received at 18:07:11
+- 10th from bottom: 'SAP Help Portal: Comment Notification' received at 18:09:04
+- 10th from bottom: 'SAP Help Portal: Comment Notification' received at 18:09:04
+- 11th from bottom: 'SAP Help Portal: Comment Notification' received at 18:09:43
+- 11th from bottom: 'SAP Help Portal: Comment Notification' received at 18:09:43
+- 12th from bottom: 'SAP Help Portal: Comment Notification' received at 18:15:29
+- 12th from bottom: 'SAP Help Portal: Comment Notification' received at 18:15:29
+- 13th from bottom: 'SAP Help Portal: Comment Notification' received at 18:17:31
+- 13th from bottom: 'SAP Help Portal: Comment Notification' received at 18:17:31
+- 14th from bottom: 'SAP Help Portal: Comment Notification' received at 18:19:08
+- 14th from bottom: 'SAP Help Portal: Comment Notification' received at 18:19:08
+- 15th from bottom: 'SAP Help Portal: Comment Notification' received at 18:20:15
+- 15th from bottom: 'SAP Help Portal: Comment Notification' received at 18:20:15
+- 16th from bottom: 'SAP Help Portal: Comment Notification' received at 18:23:33
+- 16th from bottom: 'SAP Help Portal: Comment Notification' received at 18:23:33
+- 17th from bottom: 'SAP Help Portal: Comment Notification' received at 18:24:27
+- 17th from bottom: 'SAP Help Portal: Comment Notification' received at 18:24:27
+- 18th from bottom: 'SAP Help Portal: Comment Notification' received at 18:41:07
+- 18th from bottom: 'SAP Help Portal: Comment Notification' received at 18:41:07
+- 19th from bottom: 'SAP Help Portal: Comment Notification' received at 18:42:09
+- 19th from bottom: 'SAP Help Portal: Comment Notification' received at 18:42:09
+- 20th from bottom: 'SAP Help Portal: Comment Notification' received at 18:43:05
+- 20th from bottom: 'SAP Help Portal: Comment Notification' received at 18:43:05
+- 21st from bottom: 'SAP Help Portal: Comment Notification' received at 18:44:36
+- 21st from bottom: 'SAP Help Portal: Comment Notification' received at 18:44:36
+- 22nd from bottom: 'SAP Help Portal: Comment Notification' received at 18:45:38
+- 22nd from bottom: 'SAP Help Portal: Comment Notification' received at 18:45:38
+- 23rd from bottom: 'SAP Help Portal: Comment Notification' received at 18:49:14
+- 23rd from bottom: 'SAP Help Portal: Comment Notification' received at 18:49:14
+- 24th from bottom: 'SAP Help Portal: Comment Notification' received at 18:50:02
+- 24th from bottom: 'SAP Help Portal: Comment Notification' received at 18:50:02
+- 25th from bottom: 'SAP Help Portal: Comment Notification' received at 18:51:02
+- 25th from bottom: 'SAP Help Portal: Comment Notification' received at 18:51:02
+- 26th from bottom: 'SAP Help Portal: Comment Notification' received at 18:51:56
+- 26th from bottom: 'SAP Help Portal: Comment Notification' received at 18:51:56
+- 27th from bottom: 'SAP Help Portal: Comment Notification' received at 18:53:43
+- 27th from bottom: 'SAP Help Portal: Comment Notification' received at 18:53:43
+- 28th from bottom: 'SAP Help Portal: Comment Notification' received at 18:53:58
+- 28th from bottom: 'SAP Help Portal: Comment Notification' received at 18:53:58
+- 29th from bottom: 'SAP Help Portal: Comment Notification' received at 18:54:12
+- 29th from bottom: 'SAP Help Portal: Comment Notification' received at 18:54:12
+- 30th from bottom: 'SAP Help Portal: Comment Notification' received at 18:54:26
+- 30th from bottom: 'SAP Help Portal: Comment Notification' received at 18:54:26
+- 31st from bottom: 'SAP Help Portal: Comment Notification' received at 18:54:48
+- 31st from bottom: 'SAP Help Portal: Comment Notification' received at 18:54:48
+- 32nd from bottom: 'SAP Help Portal: Comment Notification' received at 18:55:03
+- 32nd from bottom: 'SAP Help Portal: Comment Notification' received at 18:55:03
+- 33rd from bottom: 'SAP Help Portal: Comment Notification' received at 18:55:56
+- 33rd from bottom: 'SAP Help Portal: Comment Notification' received at 18:55:56
+- 34th from bottom: 'SAP Help Portal: Comment Notification' received at 18:56:18
+- 34th from bottom: 'SAP Help Portal: Comment Notification' received at 18:56:18
+- 35th from bottom: 'SAP Help Portal: Comment Notification' received at 18:56:45
+- 35th from bottom: 'SAP Help Portal: Comment Notification' received at 18:56:45
+- 36th from bottom: 'SAP Help Portal: Comment Notification' received at 19:00:39
+- 36th from bottom: 'SAP Help Portal: Comment Notification' received at 19:00:39
+- 37th from bottom: 'SAP Help Portal: Comment Notification' received at 19:01:56
+- 38th from bottom: 'SAP Help Portal: Comment Notification' received at 19:03:36
+- 38th from bottom: 'SAP Help Portal: Comment Notification' received at 19:03:36
